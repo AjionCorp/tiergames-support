@@ -1,2 +1,4 @@
 # tiergames-support
-Support for TierGames
+Official support for TierGames
+
+@ 2025 TierGames Inc & Ajion Corporation
